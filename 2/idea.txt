@@ -1,0 +1,6 @@
+A library for actuarial concetps.
+    - Interest Rates.
+    - Payments
+    - Cashflows.
+    - Annuities.
+    - EBCT model 1
